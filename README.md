@@ -1,6 +1,6 @@
 # AngularDragDrop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+Angular app for test drap and drop funcionality and make a table like Jira with issues and lanes for drag tasks.
 
 ## Development server
 
