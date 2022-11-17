@@ -4,7 +4,7 @@ import { JIssue } from '../models/lane';
 @Component({
   selector: 'app-issue-card',
   templateUrl: './issue-card.component.html',
-  styleUrls: ['./issue-card.component.css']
+  styleUrls: ['./issue-card.component.scss']
 })
 export class IssueCardComponent implements OnInit {
   @Input() issue!: JIssue;
